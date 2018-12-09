@@ -13,24 +13,24 @@ df_train=pd.read_csv("train.csv")
 df_test=pd.read_csv("test.csv")
 df_ver=pd.read_csv("gender_submission.csv")
 # zamiana plci na liczby
-df_train["Sex"].replace(to_replace=dict(male=0,female=1), inplace=True)
-df_test["Sex"].replace(to_replace=dict(male=0,female=1), inplace=True)
+df_train.Sex.replace(to_replace=dict(male=0,female=1), inplace=True)
+df_test.Sex.replace(to_replace=dict(male=0,female=1), inplace=True)
 
 #zapelnienie pustych miejsc
-median_train_age=math.floor(df_train["Age"].median())
-df_train["Age"]=df_train["Age"].fillna(median_train_age)
+median_train_age=math.floor(df_train.Age.median())
+df_train.Age=df_train.Age.fillna(median_train_age)
 
-median_test_age=math.floor(df_test["Age"].median())
-df_test["Age"]=df_test["Age"].fillna(median_test_age)
+median_test_age=math.floor(df_test.Age.median())
+df_test.Age=df_test.Age.fillna(median_test_age)
 
-average_class=math.floor(np.mean(df_test["Pclass"]))
-df_test["Pclass"]=df_test["Pclass"].fillna(average_class)
+average_class=math.floor(np.mean(df_test.Pclass))
+df_test.Pclass=df_test.Pclass.fillna(average_class)
 
-median_parch=math.floor(df_test["Parch"].median())
-df_test["Parch"]=df_test["Parch"].fillna(median_parch)
+median_parch=math.floor(df_test.Parch.median())
+df_test.Parch=df_test.Parch.fillna(median_parch)
 
-median_fare=math.floor(df_test["Fare"].median())
-df_test["Fare"]=df_test["Fare"].fillna(median_fare)
+median_fare=math.floor(df_test.Fare.median())
+df_test.Fare=df_test.Fare.fillna(median_fare)
 
 #deklaracja modelu regresji liniowej
 
