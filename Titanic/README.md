@@ -1,2 +1,0 @@
-# SKN-Data-Science
-# Titanic
