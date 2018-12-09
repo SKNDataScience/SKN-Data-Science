@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbf60c7c-4dc4-4aca-8dce-f432fec7eadb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/House_Pricing/.ipynb_checkpoints/kernel-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/House_Pricing/.ipynb_checkpoints/kernel-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/House_Pricing/kernel.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/House_Pricing/kernel.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Titanic/projekt_Titanic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Titanic/projekt_Titanic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Titanic/projekt_Titanic/Titanic_solved.py" beforeDir="false" afterPath="$PROJECT_DIR$/Titanic/projekt_Titanic/Titanic_solved.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Titanic/projekt_Titanic/tytanicObjektowo/Dane.py" beforeDir="false" afterPath="$PROJECT_DIR$/Titanic/projekt_Titanic/tytanicObjektowo/Dane.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Titanic/projekt_Titanic/tytanicObjektowo/Data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Titanic/projekt_Titanic/tytanicObjektowo/Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Titanic/projekt_Titanic/tytanicObjektowo/Regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Titanic/projekt_Titanic/tytanicObjektowo/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Titanic/projekt_Titanic/tytanicObjektowo/runner.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,16 +21,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="kernel.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Titanic_solved.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Titanic/projekt_Titanic/Titanic_solved.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kernel.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/House_Pricing/kernel.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="38" />
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Loader.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Titanic/projekt_Titanic/tytanicObjektowo/Loader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Titanic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Titanic/projekt_Titanic/Titanic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.Fare</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>[&quot;Fare&quot;]</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,6 +82,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/House_Pricing/kernel.ipynb" />
+        <option value="$PROJECT_DIR$/Titanic/projekt_Titanic/Titanic_solved.py" />
       </list>
     </option>
   </component>
@@ -48,6 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -58,13 +108,25 @@
             <path>
               <item name="SKN-Data-Science" type="b2602c69:ProjectViewProjectNode" />
               <item name="SKN-Data-Science" type="462c0819:PsiDirectoryNode" />
-              <item name="House_Pricing" type="462c0819:PsiDirectoryNode" />
+              <item name="Titanic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SKN-Data-Science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SKN-Data-Science" type="462c0819:PsiDirectoryNode" />
+              <item name="Titanic" type="462c0819:PsiDirectoryNode" />
+              <item name="projekt_Titanic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SKN-Data-Science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SKN-Data-Science" type="462c0819:PsiDirectoryNode" />
+              <item name="Titanic" type="462c0819:PsiDirectoryNode" />
+              <item name="projekt_Titanic" type="462c0819:PsiDirectoryNode" />
+              <item name="tytanicObjektowo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -98,7 +160,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -123,6 +185,42 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Titanic/projekt_Titanic/Titanic_solved.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/House_Pricing/kernel.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/projekt_Titanic/Titanic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/projekt_Titanic/tytanicObjektowo/Loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/House_Pricing/kernel.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -133,7 +231,50 @@
     <entry file="file://$PROJECT_DIR$/House_Pricing/kernel.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="38" />
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/House_Pricing/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/projekt_Titanic/Titanic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/projekt_Titanic/Titanic_solved.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/House_Pricing/kernel.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/projekt_Titanic/tytanicObjektowo/Loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -9,4 +9,4 @@ class Regression:
         self.intercept=None
         self._fit_intercept=fit_intercept
 
-    def fit(self):
+    # def fit(self):
