@@ -23,7 +23,7 @@
       <file leaf-file-name="runner.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="176">
               <caret line="10" column="114" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="114" />
             </state>
           </provider>
@@ -68,6 +68,7 @@
         <option value="$PROJECT_DIR$/test.ipynb" />
         <option value="$PROJECT_DIR$/Runner.ipynb" />
         <option value="$PROJECT_DIR$/kernel.ipynb" />
+        <option value="$PROJECT_DIR$/kernel1.ipynb" />
       </list>
     </option>
   </component>
@@ -82,7 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,10 +99,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Titanic1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -227,7 +228,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.29959515" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29959515" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291592" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -253,13 +254,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kernel.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/runner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -528,7 +522,7 @@
     <entry file="file://$PROJECT_DIR$/test.ipynb" />
     <entry file="file://$PROJECT_DIR$/runner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="176">
           <caret line="10" column="114" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="114" />
         </state>
       </provider>
@@ -541,14 +535,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/train.csv">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state>
           <caret column="854" lean-forward="true" selection-start-column="854" selection-end-column="854" />
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernel1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="8" />
         </state>
       </provider>
     </entry>
