@@ -3,39 +3,37 @@ import numpy as np
 import math
 
 
-class Dane:
+class Loader:
 
-    def __init__(self):
-        self.Dane=pd.read_csv(input("podaj nazwe danych"))
+    def __init__(self, sciezka):
+        self.dane = pd.read_csv(sciezka)
 
 
 
-    def clean(self):
-
+    def preprocess(self):
 
         # zamiana plci na liczby
-        Dane.Sex.replace(to_replace=dict(male=0, female=1), inplace=True)
-
+        self.dane["Sex"].replace(to_replace=dict(male=0, female=1), inplace=True)
 
         # zapelnienie pustych miejsc
-        median_train_age = math.floor(Dane.Age.median())
-        Dane.Age = Dane.Age.fillna(median_train_age)
+        median_train_age = math.floor(self.dane["Age"].median())
+        self.dane["Age"] = self.dane["Age"].fillna(median_train_age)
 
-        median_test_age = math.floor(Dane.Age.median())
-        Dane.Age = Dane.Age.fillna(median_test_age)
+        median_test_age = math.floor(self.dane["Age"].median())
+        self.dane["Age"] = self.dane["Age"].fillna(median_test_age)
 
-        average_class = math.floor(np.mean(Dane.Pclass))
-        Dane.Pclass = Dane.Pclass.fillna(average_class)
+        average_class = math.floor(np.mean(self.dane["Pclass"]))
+        self.dane["Pclass"] = self.dane["Pclass"].fillna(average_class)
 
-        median_parch = math.floor(Dane.Parch.median())
-        Dane.Parch = Dane.Parch.fillna(median_parch)
+        median_parch = math.floor(self.dane["Parch"].median())
+        self.dane["Parch"] = self.dane["Parch"].fillna(median_parch)
 
-        median_fare = math.floor(Dane.Fare.median())
-        Dane.Fare = Dane.Fare.fillna(median_fare)
+        median_fare = math.floor(self.dane["Fare"].median())
+        self.dane["Fare"] = self.dane["Fare"].fillna(median_fare)
 
 
-    def print(self):
-        print(Dane)
+    def printData(self):
+        print(dane)
 
-dane=Dane()
-dane.print()
+loader =  Loader()
+Loader.printData()
