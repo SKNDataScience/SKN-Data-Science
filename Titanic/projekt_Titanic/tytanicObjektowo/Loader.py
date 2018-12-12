@@ -7,7 +7,6 @@ import math
 class Data(pd.DataFrame):
 
 
-
     @property
     def _constructor(self):
         return Data
