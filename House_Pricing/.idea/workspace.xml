@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3da23a22-3033-44b0-b144-c13db11213e4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/other/arch_/kernel.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kernel.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/kernel.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kernel2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/arch_/kernel2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kernel3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/arch_/kernel3.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/kernel.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="55" />
+              <selected id="7" />
             </state>
           </provider>
         </entry>
@@ -72,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="663" />
     <option name="y" value="147" />
     <option name="width" value="945" />
@@ -235,7 +231,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.31497976" />
@@ -422,7 +418,7 @@
     <entry file="file://$PROJECT_DIR$/kernel.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="55" />
+          <selected id="7" />
         </state>
       </provider>
     </entry>
