@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3da23a22-3033-44b0-b144-c13db11213e4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/kernel-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/kernel-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kernel.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/kernel.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/other/arch_/kernel.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/other/arch_/kernel2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/other/arch_/kernel3.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,16 +13,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="kernel.ipynb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="kernel.ipynb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kernel.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="2" />
+              <selected id="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="train.csv" pinned="false" current-in-tab="true">
+      <file leaf-file-name="train.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/train.csv">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -46,19 +41,19 @@
     <findStrings>
       <find>0</find>
       <find>data</find>
-      <find>\</find>
       <find>trainData</find>
       <find>x_train</find>
       <find>missing_data</find>
       <find>,</find>
+      <find>\</find>
     </findStrings>
     <replaceStrings>
       <replace>-1000</replace>
-      <replace>/</replace>
       <replace>//</replace>
       <replace>x_train</replace>
       <replace>trainData</replace>
       <replace>missing_text_data</replace>
+      <replace>/</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -100,17 +95,7 @@
             <path>
               <item name="House_Pricing" type="b2602c69:ProjectViewProjectNode" />
               <item name="House_Pricing" type="462c0819:PsiDirectoryNode" />
-              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="House_Pricing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="House_Pricing" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="House_Pricing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="House_Pricing" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -252,19 +237,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32064778" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3263158" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291592" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3291592" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6601073" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32920355" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32743362" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6601073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24939272" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32743362" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -422,18 +408,18 @@
     <entry file="file://$PROJECT_DIR$/Runner.ipynb" />
     <entry file="file://$PROJECT_DIR$/kernel1.ipynb" />
     <entry file="file://$PROJECT_DIR$/runner.py" />
-    <entry file="file://$PROJECT_DIR$/kernel.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/train.csv">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="csv-text-editor">
         <state>
           <caret column="854" selection-start-column="854" selection-end-column="854" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernel.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
         </state>
       </provider>
     </entry>
