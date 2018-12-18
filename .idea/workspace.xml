@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbf60c7c-4dc4-4aca-8dce-f432fec7eadb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/House_Pricing/kernel.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/House_Pricing/kernel.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="bbf60c7c-4dc4-4aca-8dce-f432fec7eadb" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/House_Pricing/kernel.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="3" />
+              <selected id="6" />
             </state>
           </provider>
         </entry>
@@ -164,6 +161,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/House_Pricing/kernel.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Titanic/projekt_Titanic/Titanic_solved.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -255,24 +259,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/House_Pricing/Runner.ipynb" />
-    <entry file="file://$PROJECT_DIR$/House_Pricing/kernel2.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/House_Pricing/kernel3.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/House_Pricing/kernel2.ipynb" />
+    <entry file="file://$PROJECT_DIR$/House_Pricing/kernel3.ipynb" />
     <entry file="file://$PROJECT_DIR$/House_Pricing/kernel.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="3" />
+          <selected id="6" />
         </state>
       </provider>
     </entry>
