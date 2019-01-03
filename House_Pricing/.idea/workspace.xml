@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3da23a22-3033-44b0-b144-c13db11213e4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/kernel.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/kernel.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="3da23a22-3033-44b0-b144-c13db11213e4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/kernel.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="7" />
+              <selected id="6" />
             </state>
           </provider>
         </entry>
@@ -84,25 +82,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="House_Pricing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="House_Pricing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="House_Pricing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="House_Pricing" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/other/arch_" />
@@ -244,13 +224,13 @@
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3291592" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6601073" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32920355" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32743362" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6601073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24939272" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32743362" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -419,7 +399,7 @@
     <entry file="file://$PROJECT_DIR$/kernel.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="7" />
+          <selected id="6" />
         </state>
       </provider>
     </entry>
